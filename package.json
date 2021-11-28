@@ -1,6 +1,6 @@
 {
   "name": "create-mpc-app",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "",
   "bin": {
     "create-mpc-app": "./bin/index.js"
