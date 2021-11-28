@@ -1,0 +1,26 @@
+{
+  "name": "create-mpc-app",
+  "version": "1.0.0",
+  "description": "",
+  "bin": {
+    "mpc-app": "./bin/index.js"
+  },
+  "scripts": {
+    "dev": "tsc -w -p ./tsconfig.json"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "4.1.2",
+    "dclone": "^1.4.2",
+    "minimist": "^1.2.5",
+    "prompts": "^2.4.2",
+    "shelljs": "^0.8.4"
+  },
+  "devDependencies": {
+    "@types/node": "^16.11.10",
+    "@types/shelljs": "^0.8.9",
+    "typescript": "^4.5.2"
+  }
+}
