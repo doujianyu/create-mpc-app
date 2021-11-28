@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "",
   "bin": {
-    "mpc-app": "./bin/index.js"
+    "create-mpc-app": "./bin/index.js"
   },
   "scripts": {
     "dev": "tsc -w -p ./tsconfig.json"
