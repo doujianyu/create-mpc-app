@@ -87,7 +87,7 @@ const init = async () => {
 
   console.log(`  cd ${targetDir}`)
   console.log('  npm install (or `yarn`)')
-  console.log('  npm run dev (or `yarn dev`)')
+  console.log('  npm start (or `yarn start`)')
   console.log()
 }
 
